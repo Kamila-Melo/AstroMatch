@@ -20,6 +20,6 @@ rodar:
 (que ficará na pasta `build`)
 
 ## Contato
-Kamila Melo
-kamilamelo5@hotmail.com
-[LinkedIn!](https://www.linkedin.com/in/kamila-melo-27996236/)
+* Kamila Melo
+* kamilamelo5@hotmail.com
+* [LinkedIn!](https://www.linkedin.com/in/kamila-melo-27996236/)
